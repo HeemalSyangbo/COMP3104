@@ -18,11 +18,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/HeemalSyangbo/COMP3104/issues"
   },
-  "homepage": "https://heemalSyangbo.github.com/COMP3104",
+  "homepage": "https://heemalsyangbo.github.com/COMP3104",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
